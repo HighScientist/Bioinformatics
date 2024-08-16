@@ -1,0 +1,7 @@
+Date: Mon 01 Jul 2024 13:37:23 
+Ligand: C1=CC=C(C=C1)COC2=NC(=NC3=C2NC=N3)N
+Method: Vina
+Target: 5yz0_modified.pdb
+Sampling exhaustivity: 10
+Box size: 30 30 30
+Box center: 172.102 121.164 218.77

@@ -1,0 +1,7 @@
+Date: Mon 01 Jul 2024 13:11:02 
+Ligand: O=C(C1=CC(OC)=C(OC)C=C1)/C=C/C2=CC=CC(NC3=NC(C4=CC=C(OC)C(OC)=C4)=NC5=C3C=CC=C5)=C2
+Method: Vina
+Target: 5yz0_modified.pdb
+Sampling exhaustivity: 10
+Box size: 30 30 30
+Box center: 172.0 121.0 218.0
