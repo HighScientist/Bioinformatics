@@ -3,3 +3,4 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
 COLABS/DANIEL/Sagitall.ipynb filter=lfs diff=lfs merge=lfs -text
+UTILS/*.gif filter=lfs diff=lfs merge=lfs -text
